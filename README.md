@@ -1,4 +1,4 @@
-<h2 align="center">Templates for AppCreator24</h2>
+<h2 align="center">Html Templates </h2>
 
 <br>
 
@@ -6,15 +6,6 @@
 
 Custom templates on your design.
 
-<br>
-
-### AppCreator24
-
-<br>
-
-- **[appcreator24.com](https://www.appcreator24.com)**
-
-<hr>
 
 ## Is this template free?
 
