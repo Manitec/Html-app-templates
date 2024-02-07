@@ -296,7 +296,7 @@ $(document).ready(function() {
 
 <br>
 
-For the `<iframe>` tag you don't need to style it in css, because it is already adapted to the content you will place later. If you want to change it just go to the **CSS** **[file](https://github.com/ZazerConer/Templates-For-AppCreator24/blob/main/template/app/build/template-app.css)**, find `#load-content` and read in the _code_ you want to change after that create a new JS code. Do it like this.
+For the `<iframe>` tag you don't need to style it in css, because it is already adapted to the content you will place later. If you want to change it just go to the **CSS** **[file](https://github.com/Manitec/Html-app-templates/blob/main/template/app/build/template-app.css)**, find `#load-content` and read in the _code_ you want to change after that create a new JS code. Do it like this.
 
 ```js
 $("#load-content").css("", "");
@@ -420,7 +420,7 @@ Use pre-built theme color templates.
 
 <br>
 
-- **[GET HERE](https://github.com/ZazerConer/Templates-For-AppCreator24/blob/main/template/app/build/theme/color.md)**
+- **[GET HERE](https://github.com/Manitec/Html-app-templates/blob/main/template/app/build/theme/color.md)**
 </details>
 
 <br>
@@ -969,7 +969,7 @@ Box Office Mojo: Latest popular movies - Top hits and similarities.
 
 #### Solution if you have problems:
 
-Please see the **[Demo](https://zazerconer.github.io/Templates-For-AppCreator24/template/app/demo/movie-template/)** if you're still confused or you can open this **[HTML](https://github.com/ZazerConer/Templates-For-AppCreator24/blob/main/template/app/demo/movie-template/index.html)** code and read the code I made, find the part you're having problems with.
+Please see the **[Demo](https://zazerconer.github.io/Templates-For-AppCreator24/template/app/demo/movie-template/)** if you're still confused or you can open this **[HTML](https://github.com/Manitec/Html-app-templates/blob/main/template/app/demo/movie-template/index.html)** code and read the code I made, find the part you're having problems with.
 
 <br>
 </details>
@@ -1347,4 +1347,4 @@ For this Demo App **Preview** it may not work well or it may not be adapted in b
 <br>
 <br>
 
-<div align="center"><strong>© 2024 Templates for AppCreator24 • ZazerConer's</strong></div>
+<div align="center"><strong> Html-app-templates</strong></div>
