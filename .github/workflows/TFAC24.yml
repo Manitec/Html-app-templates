@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Templates for AppCreator24
+name: Html-app-templates
 
 on:
   # Runs on pushes targeting the default branch
