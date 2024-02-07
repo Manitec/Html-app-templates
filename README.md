@@ -11,7 +11,6 @@ Custom templates on your design.
 
 Yes, you can use this template without any hesitation.
 
-You can paste this **Template** on **HTML code** section (AppCreator24).
 
 With HTML code it's easier because you can create what you like to do on your App with your own design.
 
